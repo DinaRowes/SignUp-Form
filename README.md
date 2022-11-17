@@ -1,7 +1,7 @@
 # SignUp-Form
-## Hot to run test suite :wave:
-- The project contains 2 classes Testng & 1 class Data reader & class runner 
-- To run all you can run test suit
+## Hot to run :
+- The project contains 2 classes Testng for (happy & negtaive scenarios)  & 1 class Data reader & class runner 
+-  you can run test suit in contains test runner class
  ```
 - Tech Stack: Selenium JAVA,Maven ,TestNG,
 
